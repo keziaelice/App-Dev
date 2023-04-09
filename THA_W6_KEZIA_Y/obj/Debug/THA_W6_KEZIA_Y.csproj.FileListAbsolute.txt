@@ -1,0 +1,12 @@
+D:\Documents\ISB_2\AD\visual studio\THA_W6_KEZIA_Y\bin\Debug\THA_W6_KEZIA_Y.exe.config
+D:\Documents\ISB_2\AD\visual studio\THA_W6_KEZIA_Y\bin\Debug\THA_W6_KEZIA_Y.exe
+D:\Documents\ISB_2\AD\visual studio\THA_W6_KEZIA_Y\bin\Debug\THA_W6_KEZIA_Y.pdb
+D:\Documents\ISB_2\AD\visual studio\THA_W6_KEZIA_Y\obj\Debug\THA_W6_KEZIA_Y.csproj.AssemblyReference.cache
+D:\Documents\ISB_2\AD\visual studio\THA_W6_KEZIA_Y\obj\Debug\THA_W6_KEZIA_Y.csproj.SuggestedBindingRedirects.cache
+D:\Documents\ISB_2\AD\visual studio\THA_W6_KEZIA_Y\obj\Debug\THA_W6_KEZIA_Y.Form1.resources
+D:\Documents\ISB_2\AD\visual studio\THA_W6_KEZIA_Y\obj\Debug\THA_W6_KEZIA_Y.Properties.Resources.resources
+D:\Documents\ISB_2\AD\visual studio\THA_W6_KEZIA_Y\obj\Debug\THA_W6_KEZIA_Y.csproj.GenerateResource.cache
+D:\Documents\ISB_2\AD\visual studio\THA_W6_KEZIA_Y\obj\Debug\THA_W6_KEZIA_Y.csproj.CoreCompileInputs.cache
+D:\Documents\ISB_2\AD\visual studio\THA_W6_KEZIA_Y\obj\Debug\THA_W6_KEZIA_Y.exe
+D:\Documents\ISB_2\AD\visual studio\THA_W6_KEZIA_Y\obj\Debug\THA_W6_KEZIA_Y.pdb
+D:\Documents\ISB_2\AD\visual studio\THA_W6_KEZIA_Y\obj\Debug\THA_W6_KEZIA_Y.Form2.resources
